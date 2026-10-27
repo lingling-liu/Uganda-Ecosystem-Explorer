@@ -1,0 +1,67 @@
+[
+  {
+    "lucode": 1,
+    "LULC_desc": "Broad leaved plantations",
+    "color": "#378450"
+  },
+  {
+    "lucode": 2,
+    "LULC_desc": "Needle leaved plantation",
+    "color": "#94bd70"
+  },
+  {
+    "lucode": 3,
+    "LULC_desc": "Tropical High Forest well stocked",
+    "color": "#124d36"
+  },
+  {
+    "lucode": 4,
+    "LULC_desc": "Tropical high forest low stock",
+    "color": "#267754"
+  },
+  {
+    "lucode": 5,
+    "LULC_desc": "Woodland",
+    "color": "#71975a"
+  },
+  {
+    "lucode": 6,
+    "LULC_desc": "Bush",
+    "color": "#a4ad6b"
+  },
+  {
+    "lucode": 7,
+    "LULC_desc": "Grassland",
+    "color": "#d1db8a"
+  },
+  {
+    "lucode": 8,
+    "LULC_desc": "Wetland",
+    "color": "#4faba3"
+  },
+  {
+    "lucode": 9,
+    "LULC_desc": "Small scale farmland",
+    "color": "#edcf69"
+  },
+  {
+    "lucode": 10,
+    "LULC_desc": "Commercial farmland",
+    "color": "#df9d36"
+  },
+  {
+    "lucode": 11,
+    "LULC_desc": "Built up area",
+    "color": "#c35d67"
+  },
+  {
+    "lucode": 12,
+    "LULC_desc": "Open Water",
+    "color": "#388dc0"
+  },
+  {
+    "lucode": 13,
+    "LULC_desc": "Impediments",
+    "color": "#998e83"
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "id": "lulc_1990",
+    "model": "LULC",
+    "indicator": "Land use / land cover",
+    "year": 1990,
+    "scenario": "Historical",
+    "type": "categorical",
+    "units": "Class code",
+    "image": "data/lulc_1990/map.png",
+    "bounds": [
+      [
+        -1.529637541529684,
+        29.364822467310567
+      ],
+      [
+        4.395900832438094,
+        35.22686758643984
+      ]
+    ],
+    "mercatorBounds": [
+      3268877.0842958917,
+      -170298.7032372602,
+      3921436.961964557,
+      489830.2351914007
+    ],
+    "source": "data_raw/landcover/LULC_1990.tif",
+    "nodata": 255.0,
+    "crs": "EPSG:32636",
+    "resolution": [
+      30.0,
+      30.0
+    ],
+    "width": 21691,
+    "height": 21832,
+    "transform": [
+      30.0,
+      0.0,
+      96403.52115057135,
+      0.0,
+      -30.0,
+      485888.68748702254
+    ],
+    "range": [
+      1.0,
+      13.0
+    ],
+    "query": "data/lulc_1990/query",
+    "sourceAttribution": "User-supplied datasets; original producer and redistribution license not documented.",
+    "processing": "4096-pixel Web Mercator display; nearest neighbor. Click queries use original 30 m grid.",
+    "displayResolutionMetres": 159.31637638395148
+  },
+  {
+    "id": "lulc_2005",
+    "model": "LULC",
+    "indicator": "Land use / land cover",
+    "year": 2005,
+    "scenario": "Historical",
+    "type": "categorical",
+    "units": "Class code",
+    "image": "data/lulc_2005/map.png",
+    "bounds": [
+      [
+        -1.529637541529684,
+        29.364822467310567
+      ],
+      [
+        4.395900832438094,
+        35.22686758643984
+      ]
+    ],
+    "mercatorBounds": [
+      3268877.0842958917,
+      -170298.7032372602,
+      3921436.961964557,
+      489830.2351914007
+    ],
+    "source": "data_raw/landcover/LULC_2005.tif",
+    "nodata": 255.0,
+    "crs": "EPSG:32636",
+    "resolution": [
+      30.0,
+      30.0
+    ],
+    "width": 21691,
+    "height": 21832,
+    "transform": [
+      30.0,
+      0.0,
+      96403.52115057135,
+      0.0,
+      -30.0,
+      485888.68748702254
+    ],
+    "range": [
+      1.0,
+      13.0
+    ],
+    "query": "data/lulc_2005/query",
+    "sourceAttribution": "User-supplied datasets; original producer and redistribution license not documented.",
+    "processing": "4096-pixel Web Mercator display; nearest neighbor. Click queries use original 30 m grid.",
+    "displayResolutionMetres": 159.31637638395148
+  },
+  {
+    "id": "lulc_2010",
+    "model": "LULC",
+    "indicator": "Land use / land cover",
+    "year": 2010,
+    "scenario": "Historical",
+    "type": "categorical",
+    "units": "Class code",
+    "image": "data/lulc_2010/map.png",
+    "bounds": [
+      [
+        -1.529637541529684,
+        29.364822467310567
+      ],
+      [
+        4.395900832438094,
+        35.22686758643984
+      ]
+    ],
+    "mercatorBounds": [
+      3268877.0842958917,
+      -170298.7032372602,
+      3921436.961964557,
+      489830.2351914007
+    ],
+    "source": "data_raw/landcover/LULC_2010.tif",
+    "nodata": -1.0,
+    "crs": "EPSG:32636",
+    "resolution": [
+      30.0,
+      30.0
+    ],
+    "width": 21691,
+    "height": 21832,
+    "transform": [
+      30.0,
+      0.0,
+      96403.52115057135,
+      0.0,
+      -30.0,
+      485888.68748702254
+    ],
+    "range": [
+      1.0,
+      13.0
+    ],
+    "query": "data/lulc_2010/query",
+    "sourceAttribution": "User-supplied datasets; original producer and redistribution license not documented.",
+    "processing": "4096-pixel Web Mercator display; nearest neighbor. Click queries use original 30 m grid.",
+    "displayResolutionMetres": 159.31637638395148
+  },
+  {
+    "id": "lulc_2015",
+    "model": "LULC",
+    "indicator": "Land use / land cover",
+    "year": 2015,
+    "scenario": "Historical",
+    "type": "categorical",
+    "units": "Class code",
+    "image": "data/lulc_2015/map.png",
+    "bounds": [
+      [
+        -1.529637541529684,
+        29.364822467310567
+      ],
+      [
+        4.395900832438094,
+        35.22686758643984
+      ]
+    ],
+    "mercatorBounds": [
+      3268877.0842958917,
+      -170298.7032372602,
+      3921436.961964557,
+      489830.2351914007
+    ],
+    "source": "data_raw/landcover/LULC_2015.tif",
+    "nodata": 15.0,
+    "crs": "EPSG:32636",
+    "resolution": [
+      30.0,
+      30.0
+    ],
+    "width": 21691,
+    "height": 21832,
+    "transform": [
+      30.0,
+      0.0,
+      96403.52115057135,
+      0.0,
+      -30.0,
+      485888.68748702254
+    ],
+    "range": [
+      1.0,
+      13.0
+    ],
+    "query": "data/lulc_2015/query",
+    "sourceAttribution": "User-supplied datasets; original producer and redistribution license not documented.",
+    "processing": "4096-pixel Web Mercator display; nearest neighbor. Click queries use original 30 m grid.",
+    "displayResolutionMetres": 159.31637638395148
+  },
+  {
+    "id": "lulc_2020",
+    "model": "LULC",
+    "indicator": "Land use / land cover",
+    "year": 2020,
+    "scenario": "Historical",
+    "type": "categorical",
+    "units": "Class code",
+    "image": "data/lulc_2020/map.png",
+    "bounds": [
+      [
+        -1.529637541529684,
+        29.364822467310567
+      ],
+      [
+        4.395900832438094,
+        35.22686758643984
+      ]
+    ],
+    "mercatorBounds": [
+      3268877.0842958917,
+      -170298.7032372602,
+      3921436.961964557,
+      489830.2351914007
+    ],
+    "source": "data_raw/landcover/LULC_2020.tif",
+    "nodata": 0.0,
+    "crs": "EPSG:32636",
+    "resolution": [
+      30.0,
+      30.0
+    ],
+    "width": 21691,
+    "height": 21832,
+    "transform": [
+      30.0,
+      0.0,
+      96403.52115057135,
+      0.0,
+      -30.0,
+      485888.68748702254
+    ],
+    "range": [
+      1.0,
+      13.0
+    ],
+    "query": "data/lulc_2020/query",
+    "sourceAttribution": "User-supplied datasets; original producer and redistribution license not documented.",
+    "processing": "4096-pixel Web Mercator display; nearest neighbor. Click queries use original 30 m grid.",
+    "displayResolutionMetres": 159.31637638395148
+  },
+  {
+    "id": "quickflow_2020",
+    "model": "SWY",
+    "indicator": "Quickflow",
+    "year": 2020,
+    "scenario": "Historical",
+    "type": "continuous",
+    "units": "mm/year",
+    "image": "data/quickflow_2020/map.png",
+    "bounds": [
+      [
+        -1.4837671205169105,
+        29.564721114373686
+      ],
+      [
+        4.232241774555327,
+        35.005680606660746
+      ]
+    ],
+    "mercatorBounds": [
+      3291129.699897222,
+      -165190.6651176371,
+      3896814.540005446,
+      471560.02074767
+    ],
+    "source": "data_raw/SWY/Quickflow_2020.tif",
+    "nodata": -9999.0,
+    "crs": "EPSG:32636",
+    "resolution": [
+      30.0,
+      30.0
+    ],
+    "width": 20136,
+    "height": 21060,
+    "transform": [
+      30.0,
+      0.0,
+      118543.52115057135,
+      0.0,
+      -30.0,
+      467798.68748702254
+    ],
+    "range": [
+      0.0,
+      2421.4462890625
+    ],
+    "query": null,
+    "sourceAttribution": "User-supplied datasets; original producer and redistribution license not documented.",
+    "processing": "Area-average Web Mercator display; percentile-stretched continuous scale. Units mm/year confirmed by user-provided QF_[Suffix].tif definition.",
+    "displayResolutionMetres": 147.8722754170468,
+    "colorRange": [
+      0.0202259710431099,
+      477.3390893554689
+    ],
+    "unitsSource": "User-provided InVEST output definition: QF_[Suffix].tif, annual quickflow (QF), mm/year."
+  }
+]
