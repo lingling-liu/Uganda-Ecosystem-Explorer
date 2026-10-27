@@ -308,6 +308,7 @@
       0.0202259710431099,
       477.3390893554689
     ],
-    "unitsSource": "User-provided InVEST output definition: QF_[Suffix].tif, annual quickflow (QF), mm/year."
+    "unitsSource": "User-provided InVEST output definition: QF_[Suffix].tif, annual quickflow (QF), mm/year.",
+    "valueLookup": "data/quickflow_2020/values/manifest.json"
   }
 ]
